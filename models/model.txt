@@ -1,0 +1,11 @@
+Place the model file in this folder.
+
+The required model can be downloaded from:
+https://huggingface.co/KavinduHansaka/granite-4.0-h-tiny-gguf
+
+After downloading, copy the model file (e.g., .gguf) into the `models/` directory
+and ensure the file path is correctly referenced in the application code.
+
+Example:
+  models/
+    └── granite-4.0-h-tiny.gguf
