@@ -185,11 +185,3 @@ These limitations are inherent to natural language understanding tasks.
 - GGUF redistribution subject to IBM Granite licensing
 
 ---
-
-## ✅ Submission Checklist
-
-- ✔ Fully functional implementation
-- ✔ Granite compulsory requirement satisfied
-- ✔ Tested on multiple edge cases
-- ✔ Clear design rationale
-- ✔ Ready for technical evaluation
