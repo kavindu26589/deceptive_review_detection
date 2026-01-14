@@ -12,7 +12,7 @@ This project implements a **semantic deceptive review detection system** that id
 The solution follows a **hybrid NLP + LLM approach**, combining:
 - Sentence-level semantic embeddings for efficient candidate selection
 - Lightweight clustering and polarity analysis
-- **Granite 4.0 H Tiny LLM (GGUF, local inference, compulsory)** for final contradiction reasoning
+- **Granite 4.0 h Tiny LLM (GGUF, local inference, compulsory)** for final contradiction reasoning
 
 The system detects **explicit, implicit, and expectation-level contradictions**, fully aligned with Twist Digital’s problem definition.
 
