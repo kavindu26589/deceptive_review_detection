@@ -64,7 +64,7 @@ Granite is **always executed** before producing a final decision, satisfying the
 - **GGUF conversion**: Created by the author ([KavinduHansaka/granite-4.0-h-tiny-gguf](https://huggingface.co/KavinduHansaka/granite-4.0-h-tiny-gguf))
 - **Runtime**: Local inference using `llama-cpp-python`
 
-Granite is used for **semantic reasoning only**, not text generation, ensuring deterministic and explainable behavior.
+LLM is used for **semantic reasoning only**, not text generation, ensuring deterministic and explainable behavior.
 
 ---
 
@@ -80,7 +80,7 @@ LLM-based reasoning is required to address these reliably.
 
 ### Why a hybrid approach?
 - Embeddings → reduce computational cost
-- Granite → authoritative semantic judgment
+- LLM → authoritative semantic judgment
 
 This balances **accuracy, performance, and scalability**.
 
@@ -177,7 +177,7 @@ These limitations are inherent to natural language understanding tasks.
 
 ## 🛡️ License & Attribution
 
-© 2026 Kavindu Jayasinghe. All rights reserved.
+© 2026 Kavindu Hansaka Jayasinghe. All rights reserved.
 
 - Codebase: Copyrighted by the author
 - Granite base model: Apache-2.0 (IBM)
